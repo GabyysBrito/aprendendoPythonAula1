@@ -20,5 +20,3 @@ float: Números decimais.
 str: Cadeias de caracteres.
 
 bool: Valores booleanos (True ou False).
-
-Sinta-se à vontade para explorar e contribuir! 😃
